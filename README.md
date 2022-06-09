@@ -61,8 +61,9 @@ plt.imshow(cv2.cvtColor(image1,cv2.COLOR_BAYER_GR2BGRA))
 ### Display the result of Opening
 ![11 2M](https://user-images.githubusercontent.com/93427286/172935075-4b2c4b1f-3738-4178-9c8b-cdb0a0673d8d.png)
 
-### Disp![11 3M](https://user-images.githubusercontent.com/93427286/172935067-b14b24bb-14a0-48dd-af62-080fc495e13e.png)
-lay the result of Closing
+### Display the result of Closing
+![11 3M](https://user-images.githubusercontent.com/93427286/172935067-b14b24bb-14a0-48dd-af62-080fc495e13e.png)
+
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
