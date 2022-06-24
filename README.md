@@ -30,7 +30,7 @@ import matplotlib.pyplot as plt
 # Create the Text using cv2.putText
 img=np.zeros((100,500),dtype='uint8')
 font=cv2.FONT_HERSHEY_SCRIPT_COMPLEX
-im=cv2.putText(img,' Pavan GV ',(5,70),font,2,(255),5,cv2.LINE_AA)
+im=cv2.putText(img,' Maha ',(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(cv2.cvtColor(im, cv2.COLOR_BAYER_GR2BGRA))
 # Create the structuring element
 Kernel=cv2.getStructuringElement(cv2.MORPH_CROSS,(11,11))
